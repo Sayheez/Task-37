@@ -1,0 +1,8 @@
+file: virtualenv==20.17.1
+file: virtualenv-clone==0.5.7
+
+file: virtualenv/ .vscode/
+file: virtualenv-clone/ .vscode/
+
+file: virtualenv==20.17.1/ .vscode/
+file: virtualenv-clone==0.5.7/ .vscode/
